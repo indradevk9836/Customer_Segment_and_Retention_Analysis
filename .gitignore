@@ -1,6 +1,11 @@
 OnlineRetail.csv
 *.csv
+!rfm_table.csv
 *.pkl
+!kmeans_model.pkl
+!scaler.pkl
+!retention_model.pkl
+!cluster_names.pkl
 .ipynb_checkpoints/
 __pycache__/
 .venv/
