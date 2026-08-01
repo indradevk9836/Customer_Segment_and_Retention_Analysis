@@ -132,13 +132,11 @@ Example:
 
 ![Prediction](image.png)
 
-![Piechart](piechar.png)
+![Piechart](piechart.png)
 
 ![Barplot](Barplot.png)
-```
 
-
-
+---
 ## 🔮 Future Improvements
 
 - Real-time customer prediction
