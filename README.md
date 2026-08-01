@@ -130,11 +130,11 @@ Add screenshots of your Streamlit dashboard here.
 Example:
 
 ```
-(images/image.png)
+![Prediction](image.png)
 
-(images/piechar.png)
+![Piechart](piechar.png)
 
-(images/Barplot.png)
+![Barplot](images/Barplot.png)
 ```
 
 ---
