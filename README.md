@@ -125,11 +125,9 @@ Among all evaluated models, **XGBoost** achieved the best overall performance an
 
 ## 📷 Application Preview
 
-Add screenshots of your Streamlit dashboard here.
+[Open Streamlit App](https://your-app-name.streamlit.app)
 
-Example:
-
-
+## App Screenshort
 ![Prediction](image.png)
 
 ![Piechart](piechart.png)
